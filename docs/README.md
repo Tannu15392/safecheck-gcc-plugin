@@ -53,9 +53,3 @@ gcc-12 -fplugin=./safecheck.so test.c
 - Double Free Errors
 - Null Pointer Dereferences
 - Use Before Initialization
-
-## Future Improvements
-
-- Interprocedural Analysis
-- Alias Analysis
-- Path-Sensitive Analysis

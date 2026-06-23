@@ -1,5 +1,5 @@
 # ==============================================================
-#  Makefile — safecheck GCC plugin
+#  Makefile — Safecheck GCC plugin
 #
 #  Requirements (Ubuntu / WSL / Debian):
 #    sudo apt install gcc-12 g++-12 gcc-12-plugin-dev
